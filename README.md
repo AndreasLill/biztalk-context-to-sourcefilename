@@ -28,9 +28,9 @@ Example:
 ```
 
 ### TargetSourceFileName
-The target source file name using biztalk or custom context properties.
-
+The target source file name containing the context property macros.
 The context properties are found in the component using [%ContextName%].
+This will be written to %SourceFileName% (ReceivedFileName) context.
 
 Examples:
 ```
