@@ -4,7 +4,7 @@ A small BizTalk pipeline component to write context properties to be used with %
 ## Properties
 
 ### ContextPropertySchemas
-A collection of property schemas containing the context properties.
+A collection of property schemas containing the context properties to read.
 Delimited by | (pipe character).
 
 Example using one property schema:
