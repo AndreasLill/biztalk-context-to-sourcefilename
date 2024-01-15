@@ -1,5 +1,5 @@
 # BizTalk Pipeline Component
-A small BizTalk pipeline component to write context properties to be used with %SourceFileName%.
+A small BizTalk pipeline component to read context properties and write it to %SourceFileName%.
 
 ## Properties
 
